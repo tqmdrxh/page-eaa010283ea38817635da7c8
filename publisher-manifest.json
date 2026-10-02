@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e684ae1bebe18c294345ebad",
+  "owner": "tqmdrxh",
+  "repo": "page-eaa010283ea38817635da7c8",
+  "title": "GoFast",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eaa010283ea38817635da7c8",
+      "a": "GoFast",
+      "b": "",
+      "entity": "GoFast",
+      "brand": "GoFast",
+      "separator": "",
+      "path": "index.html",
+      "hash": "78f2d032d10f53b45bb2a7d2aa8fdc9e6b074e96515658c4ad50023777e568ac",
+      "content": {
+        "keyword1": "GoFast",
+        "keyword2": "",
+        "primary_entity": "GoFast",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GoFast 是面向个人与团队的网络加速服务官网，提供机场订阅、多端客户端下载、节点与配置流程说明，助你稳定使用梯子与加速器。",
+          "AI_DESCRIPTION": "GoFast 是面向个人与团队的网络加速服务官网，提供机场订阅、多端客户端下载、节点与配置流程说明，助你稳定使用梯子与加速器。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F6F1E7;color:#1C2B22;line-height:1.75;max-width:100%;overflow-x:hidden;word-wrap:break-word;overflow-wrap:break-word}a{color:#1B5E3B;text-decoration:underline}img,svg,video{max-width:100%}header{background:#1B5E3B;color:#F6F1E7}header .wrap,footer .wrap,.page{max-width:1080px;margin:0 auto;padding:16px}header h2{font-size:1.15rem;font-weight:700}nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:10px}nav a{color:#F6F1E7;text-decoration:none;font-size:0.95rem}h1{font-size:1.75rem;line-height:1.3;color:#0F3D2A;margin:8px 0 14px}h2{font-size:1.32rem;color:#1B5E3B;margin:22px 0 12px;padding-bottom:6px;border-bottom:2px solid #C5D8C6}h3{font-size:1.12rem;color:#244A34;margin:16px 0 8px}p,li{font-size:1rem;margin-bottom:10px}ul,ol{padding-left:1.2em;margin-bottom:12px}main{display:flex;flex-wrap:wrap;gap:20px;align-items:flex-start}.primary{flex:1 1 640px;min-width:0}.rail{flex:1 1 280px;min-width:0}.panel{background:#FFFCF6;border:1px solid #C9D9C8;border-radius:10px;padding:18px;margin-bottom:16px}.lead{font-size:1.05rem;background:#EAF3EC;border-left:4px solid #1B5E3B;padding:12px 14px;border-radius:0 8px 8px 0}.plans{display:flex;flex-wrap:wrap;gap:12px}.plan{flex:1 1 220px;background:#FFFCF6;border:1px solid #C9D9C8;border-radius:10px;padding:16px}.plan.featured{border:2px solid #1B5E3B;background:#EAF3EC}.price{font-size:1.4rem;font-weight:700;color:#1B5E3B}.annual{font-size:0.92rem;color:#3E5A48;margin:4px 0 10px}.steps{counter-reset:cfg;list-style:none;padding-left:0}.steps li{counter-increment:cfg;position:relative;padding:12px 12px 12px 48px;margin-bottom:10px;background:#FFFCF6;border:1px solid #C9D9C8;border-radius:8px}.steps li::before{content:counter(cfg);position:absolute;left:12px;top:12px;width:26px;height:26px;border-radius:50%;background:#1B5E3B;color:#F6F1E7;font-size:0.85rem;font-weight:700;display:flex;align-items:center;justify-content:center;line-height:26px;text-align:center}details{border-bottom:1px solid #D5E3D4;padding:10px 0}summary{cursor:pointer;font-weight:700;color:#1B5E3B;font-size:1.02rem}details p{margin-top:8px;color:#24362C}footer{background:#244A34;color:#E7F0E8;margin-top:24px}footer a{color:#D7EBD8}footer h2,footer h3{color:#F6F1E7;border:none}.ads,.friends,.sitemap ul{font-size:0.95rem}.sitemap ul{list-style:none;padding-left:0;display:flex;flex-wrap:wrap;gap:8px 14px}.note{font-size:0.9rem;color:#3E5A48}@media (max-width:720px){h1{font-size:1.5rem}.primary,.rail{flex:1 1 100%}.plan{flex:1 1 100%}header .wrap,footer .wrap,.page{padding:12px}}</style><header><div class=\"wrap\"><h2>GoFast 官网</h2><p class=\"note\">机场订阅 · VPN 网络加速 · 客户端下载</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#setup\">配置流程</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><div class=\"page\"><main><article class=\"primary\"><h1>GoFast 官方机场订阅与网络加速客户端</h1><section id=\"intro\"><h2>品牌简介</h2><p class=\"lead\">GoFast 面向需要稳定跨境连接的个人与团队，提供可订阅的机场节点、多端加速器客户端以及清晰的配置流程。本页是 GoFast 官网信息入口，用于了解套餐、下载客户端并完成订阅导入。</p><div class=\"panel\"><p>GoFast 将线路分成普通节点池与 IPLC 专线两类：前者覆盖日常网页、检索与基础流媒体；后者针对游戏与实时会议做了延迟优化。订阅按月流量计费，设备数按同时在线会话统计，适合把梯子网络加速放在可预期的成本内。</p><p>我们在香港、东京、新加坡、洛杉矶与法兰克福部署接入点，旗舰版与团队版可调用原生流媒体解锁节点。官方身份以本站套餐说明与客户端下载区为准，不通过来路不明的安装包分发。</p><p>若你正在比较加速器与传统 VPN：GoFast 采用订阅链接分发，一份机场订阅可在 Clash 兼容内核、系统 VPN 配置或移动端客户端中复用，减少重复登录。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境协作与远程会议</h3><p>海外代码仓库、设计协作与视频会议常受出口链路抖动影响。旗舰版 IPLC 专线适合把会议终端固定在低延迟节点，避免频繁切换。</p><h3>学术检索与资料同步</h3><p>高校与研究团队可用基础版完成文献库访问与大文件同步。每月 100GB 足够文献下载；若需批量镜像，建议团队版 1000GB 配额。</p><h3>流媒体与内容审核预览</h3><p>内容团队可使用全节点原生流媒体解锁核对不同地区片源。请遵守各平台服务条款，GoFast 仅提供传输加速，不提供盗版内容。</p><h3>游戏加速</h3><p>对延迟敏感的对战游戏，优先选择标注游戏优化的 IPLC 节点，关闭无关分流规则，只加速游戏进程。</p><h3>差旅与多设备办公</h3><p>基础版支持 3 台同时在线，旗舰版 5 台，团队版 20 台。笔记本、手机与一台办公室主机是最常见组合。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>价格为官网标示月付价，按年付可锁定全年流量包。流量在每个订阅周期重置，不结转。以下三档覆盖个人、重度使用与小团队。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"setup\"><h2>配置流程</h2><p>GoFast 强调先选套餐、再取订阅、后导入客户端。按下列顺序操作，可避免“已下载却连不上”的常见问题。</p><ol class=\"steps\"><li><strong>确认需求并选定套餐。</strong>日均浏览与检索选基础版；4K 流媒体、游戏或频繁会议选旗舰版；多成员共享选团队版。</li><li><strong>在官网完成订阅并复制链接。</strong>订阅链接是一串 HTTPS 地址，请保存在密码管理器，不要发到公开群。</li><li><strong>下载对应系统的官方客户端。</strong>Windows 与 macOS 使用桌面端，Android 使用 APK 或应用商店包，iOS 使用兼容订阅的客户端。</li><li><strong>导入订阅并更新节点。</strong>桌面端选择“从 URL 导入”，移动端选择“订阅 / 添加配置”。导入后手动更新一次节点列表。</li><li><strong>选择节点并开启系统代理。</strong>日常选香港或新加坡；游戏选 IPLC；流媒体选带解锁标识的节点。开启 TUN 或系统代理后访问检测页确认出口 IP。</li><li><strong>按场景微调分流。</strong>国内直连、国外走代理。团队版可提交网段白名单，由客户经理写入定制路由。</li></ol></section><section id=\"guide\"><h2>操作说明</h2><h3>订阅链接管理</h3><p>一份 GoFast 机场订阅可同时写入多台已授权设备。超出同时在线数时，最早心跳的会话会被踢出。不要把同一链接分享给未授权同事。</p><h3>节点选择原则</h3><p>延迟不是唯一指标。网页浏览看丢包，下载看带宽，会议看抖动。可在客户端内对三个候选节点各测 20 秒，再固定其中一个作为默认。</p><h3>分流与规则</h3><p>默认规则已覆盖常见国内域名直连。若内网办公系统被误判，把域名加入直连列表后重新加载配置。不要全局代理下载系统更新。</p><h3>安全建议</h3><p>只从本页锚点进入下载说明，校验安装包哈希（客户端发布说明中提供）。开启系统后勿关闭 TLS。公共 Wi-Fi 下务必保持连接状态。</p></section><section id=\"download\"><h2>客户端下载</h2><p>GoFast 客户端下载入口按系统划分。官网不捆绑浏览器插件。安装完成后回到配置流程第四步导入订阅。</p><ul><li><a href=\"#setup\">Windows 桌面端</a>：64 位安装包，支持 TUN 模式。</li><li><a href=\"#setup\">macOS 桌面端</a>：适用于近期系统版本，需授予网络扩展权限。</li><li><a href=\"#setup\">Android 客户端</a>：支持订阅自动更新与分应用代理。</li><li><a href=\"#setup\">iOS 客户端说明</a>：通过兼容订阅的客户端导入 GoFast 链接。</li><li><a href=\"#setup\">Linux 命令行与图形前端</a>：适合服务器转发与开发机。</li></ul><p class=\"note\">若企业需要静默部署，请使用团队版并联系专属客户经理获取内网分发清单，勿在生产环境使用来源不明的加速器修改版。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>GoFast 是什么？和普通 VPN 有何不同？</summary><p>GoFast 是以机场订阅为核心的网络加速服务。你获得的是可持续更新的节点列表，而不是单一固定服务器账号。客户端可更换，订阅仍有效，适合把梯子、加速器与多设备办公放在同一套配置里。</p></details><details><summary>首次使用如何完成客户端下载与导入？</summary><p>先在套餐区选定版本，复制订阅 URL，再进入客户端下载说明安装对应系统软件。打开客户端后选择从 URL 导入，等待节点刷新，挑一个延迟较低的接入点开启系统代理。完整顺序见上方配置流程。</p></details><details><summary>基础版、旗舰版、团队版应该怎么选？</summary><p>一个人三台设备、以网页和基础流媒体为主，选基础版。需要原生流媒体、游戏 IPLC 和优先工单，选旗舰版。超过五台设备、需要定制路由或客户经理，选团队版。年付可降低每月折算成本。</p></details><details><summary>流量用尽或设备超限会发生什么？</summary><p>流量用尽后新连接会失败，已建立会话可能被限速；等待下一计费周期重置，或升级套餐。同时在线超出上限时，多出的设备无法握手。可在客户端断开闲置会话后再连。</p></details><details><summary>连接成功但无法播放流媒体或游戏掉线怎么办？</summary><p>流媒体请改用带解锁标识的节点并关闭错误的地区伪装规则。游戏掉线通常是全局 UDP 未放行或选了普通国际线路，请切换到 IPLC 游戏优化节点，并仅对游戏进程代理。</p></details><details><summary>GoFast 官网如何识别，避免下到被篡改的安装包？</summary><p>以本页品牌名、套餐价格与配置流程为准。下载只通过官网公布的客户端通道。不要相信搜索结果里要求先加陌生会话再发安装包的做法。安装后核对版本号与发布说明是否一致。</p></details></section></article><aside class=\"rail\"><div class=\"panel\"><h2>配置要点</h2><p>先订阅后下载，先导入后测速。节点名称中的地区代码仅表示入口，不保证内容平台账号地区。</p><p><a href=\"#setup\">查看六步配置流程</a></p></div><div class=\"panel\"><h3>节点覆盖</h3><ul><li>亚太：香港、东京、新加坡</li><li>美洲：洛杉矶</li><li>欧洲：法兰克福</li><li>旗舰/团队：IPLC 与 VIP 高带宽</li></ul></div><div class=\"panel\"><h3>官方下载</h3><p>客户端与机场订阅分离交付。安装包不含订阅，需自行粘贴链接。</p><p><a href=\"#download\">前往客户端下载</a></p></div><div class=\"panel\"><h3>服务边界</h3><p>GoFast 提供传输加速与节点可用性，不储存你的业务数据，不代为注册第三方平台账号。</p></div></aside><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main></div><footer><div class=\"wrap\"><section class=\"ads\"><h2>展示合作</h2><p>品牌展示位：跨境协作工具、企业邮箱与安全终端管理可与 GoFast 团队版路由策略配合。合作咨询请通过官网工单，不在页面内收集表单。</p></section><section class=\"friends\"><h3>友情链接</h3><p><a href=\"#intro\">GoFast 简介</a> · <a href=\"#plans\">套餐一览</a> · <a href=\"#download\">官网下载</a> · <a href=\"#faq\">帮助中心</a> · <a href=\"#setup\">配置手册</a></p></section><section class=\"sitemap\" id=\"sitemap\"><h3>网站地图</h3><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#setup\">配置流程</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></section><p class=\"note\">GoFast 官网 · 网络加速与机场订阅服务说明页</p></div></footer>",
+          "hash": "681e9224f549aba3d899764df62d8a18feec59508ecc1637265eb2a7a54f22d3",
+          "seo": {
+            "title": "GoFast 官网下载 | 梯子网络加速、加速器与机场订阅客户端",
+            "keywords": "GoFast,GoFast VPN,GoFast机场,GoFast加速器,梯子,网络加速,机场订阅,客户端下载,官网,IPLC专线,流媒体解锁",
+            "description": "GoFast 是面向个人与团队的网络加速服务官网，提供机场订阅、多端客户端下载、节点与配置流程说明，助你稳定使用梯子与加速器。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fengshanjob.cn",
+    "host": "p-f8aaba164d.fengshanjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fengshanjob.cn",
+      "url": "https://fengshanjob.cn/",
+      "label": "云图小镇",
+      "apex": "fengshanjob.cn",
+      "kind": null,
+      "identity": "s38dcff6p/page-1b08d4c06f1e2507112832cf"
+    },
+    {
+      "host": "fgstvgk.cn",
+      "url": "https://fgstvgk.cn/",
+      "label": "GoFast",
+      "apex": "fgstvgk.cn",
+      "kind": null,
+      "identity": "feaucgxrkrt/page-3fce03d34faa73b208e1dbcb"
+    },
+    {
+      "host": "kilcgpa.cn",
+      "url": "https://kilcgpa.cn/",
+      "label": "GoFast",
+      "apex": "kilcgpa.cn",
+      "kind": null,
+      "identity": "bfyahuuga/page-a412e17c7c74b1e0b7ea1e88"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "35eddb3e0b9d2445d12b373ece12543ed4d5facbcd9d5e430115ec8b629589cf",
+    "sitemap.xml": "bf430b11bb94153d7544b62352e4c806292f56da68f69126003abc3318940292",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "08159d11457b480c9143dfe8fc25cfba3a3c678a1d1294dce29c172219029941",
+    "robots.txt": "99abb8c62cc81c8ad47b53f5584723d9962c9784716a22d10e9a4d18313c8aaa",
+    "7ff51c6a517f5878f2376e7f350ce698.txt": "b654dca47a2ec88e9344a4d929a0c9ca18d9e94b18a0a9420635df4f225ddb78"
+  },
+  "revision": "3fea46318ebefd272a60b7050ab1a8957dc1fbebaac71a8e4cc4fa8e1f3b29fa"
+}
